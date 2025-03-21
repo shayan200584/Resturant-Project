@@ -69,6 +69,8 @@ a{
 img{
     width: 100%;
 }
+
+
 .text_danger{
     color: var(--color_C90000);
 }
@@ -946,6 +948,9 @@ footer{
    .order_food_mobile{
     display: none;
    }
+    .logo-mc{
+        width: 40%;
+    }
 }
 @media (max-width:500px){
     /* .row_grid_food_products{
